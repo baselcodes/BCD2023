@@ -19,6 +19,10 @@ Ernst Brunner's photography is usually described as painting a peasant and rural
 
 Looking at it from today's point of view, *how can different social constructs, such as gender, race, religion or labour, that are depicted in the images, be visualized to understand the norms and the marginalised?*
 
+We will work with the open APIs of the PIA research project, which are documented here: [Metadata API](https://observablehq.com/@participatory-archives/introduction-brunner-collection-data-visualisation), [Image API](https://observablehq.com/@participatory-archives/access-images-through-the-api).
+
+You can also find a P5js starter sketch [here](https://editor.p5js.org/maxfrischknecht/sketches/G83D-WWOx).
+
 ## Generative Data Design
 
 Data is not a mirror of the world, and a visualization is not a mirror of data. Neither are neutral nor objective. Both are arguments. And we should craft them with the same care we use when writing or speaking. To support us in this process of visual argumentation we use the generative workflow.
